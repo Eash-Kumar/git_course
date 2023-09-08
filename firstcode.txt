@@ -1,1 +1,6 @@
 hello world !!!
+take input to the user
+add two values
+
+
+submit data to the database
